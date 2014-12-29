@@ -8,8 +8,8 @@ Usage
 
 You'll need guile 2.0 installed as well as ncurses, but you can simply change the permissions:
 
-  chmod +x life.scm
+    chmod +x life.scm
 
 and run it as a script:
 
-  ./life.scm
+    ./life.scm
